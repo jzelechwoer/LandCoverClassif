@@ -1,4 +1,4 @@
-# LandCoverClassif
+# Land Cover Classification of Satellite Imagery Using CNN
 
 Dataset:
 
